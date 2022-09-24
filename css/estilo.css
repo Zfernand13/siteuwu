@@ -21,19 +21,10 @@
   color: white;
 }
 img{
-        width: 150px;
-        height: 50px;
+        width: 180px;
+        height: 108px;
     }
 
-table {
-        border:5px solid black;
-    }
-td {
-        border:1px solid black;
-    }
-th {
-        border:1px solid black;
-    }
 
 .header {
   overflow: hidden;
